@@ -1,0 +1,25 @@
+labels:
+- code: HOURS_MISSING
+  issue: Working hours missing/zero
+  action: Enter arrival, departure, and total working time.
+- code: ATTRIBUTES_PARTIAL
+  issue: Attributes not filled / partially filled
+  action: Fill power/battery/capacity/spec fields.
+- code: MATERIALS_NOT_BOOKED
+  issue: Materials used not booked to order
+  action: Book materials to a new order to enable invoicing.
+- code: VIDEO_MISSING
+  issue: Missing SharePoint video evidence
+  action: Attach a valid SharePoint video link.
+- code: TECH_SUPPORT_NOT_CONSULTED
+  issue: Issue required consultation with technical support but none recorded
+  action: Discuss with technical support and document the outcome.
+- code: RUN_LOG_INCOMPLETE
+  issue: Run log not completed
+  action: Attach metering run log or reschedule with tooling.
+- code: FUEL_LEVEL_DECISION_MISSING
+  issue: Fuel level indicator decision missing
+  action: Record customer decision (do not use / do not replace / replace).
+- code: MATERIALS_DETAILS_MISSING
+  issue: Materials/spec/quantity/hours missing in quote line(s)
+  action: Provide material code, specification, quantity, and hours estimate.

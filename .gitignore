@@ -1,0 +1,5 @@
+\sloppy_reports\*.pdf
+\sloppy_reports\structured\*.json
+\sloppy_reports\quote_stub\*.csv
+\sloppy_reports\findings\*.csv
+\sloppy_ml\predicted\*.csv

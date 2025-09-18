@@ -1,0 +1,17 @@
+report_id,row_index,category,issue,action_request
+4083505,0,Attributes,Required field 'material_code' missing,Fill in the 'material_code' field completely.
+4083505,0,Attributes,Required field 'specification' missing,Fill in the 'specification' field completely.
+4083505,0,Attributes,Required field 'quantity' missing,Fill in the 'quantity' field completely.
+4083505,0,Attributes,Required field 'hours_estimate' missing,Fill in the 'hours_estimate' field completely.
+4083505,1,Attributes,Required field 'material_code' missing,Fill in the 'material_code' field completely.
+4083505,1,Attributes,Required field 'specification' missing,Fill in the 'specification' field completely.
+4083505,1,Attributes,Required field 'quantity' missing,Fill in the 'quantity' field completely.
+4083505,1,Attributes,Required field 'hours_estimate' missing,Fill in the 'hours_estimate' field completely.
+4083506,0,Attributes,Required field 'material_code' missing,Fill in the 'material_code' field completely.
+4083506,0,Attributes,Required field 'specification' missing,Fill in the 'specification' field completely.
+4083506,0,Attributes,Required field 'quantity' missing,Fill in the 'quantity' field completely.
+4083506,0,Attributes,Required field 'hours_estimate' missing,Fill in the 'hours_estimate' field completely.
+4083506,1,Attributes,Required field 'material_code' missing,Fill in the 'material_code' field completely.
+4083506,1,Attributes,Required field 'specification' missing,Fill in the 'specification' field completely.
+4083506,1,Attributes,Required field 'quantity' missing,Fill in the 'quantity' field completely.
+4083506,1,Attributes,Required field 'hours_estimate' missing,Fill in the 'hours_estimate' field completely.

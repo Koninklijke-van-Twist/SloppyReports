@@ -1,0 +1,254 @@
+report_id,arrival,departure,total_time_spent,attributes_filled,comments,attributes_excerpt,flag__fuel_polisher_pump_leak,flag__fuel_level_indicator_issue,flag__repair_advice_present,flag__run_log_incomplete,label_list,HOURS_MISSING,ATTRIBUTES_PARTIAL,MATERIALS_NOT_BOOKED,VIDEO_MISSING,TECH_SUPPORT_NOT_CONSULTED,RUN_LOG_INCOMPLETE,FUEL_LEVEL_DECISION_MISSING,MATERIALS_DETAILS_MISSING
+4083504,00:00,,00:00,True,"100 General
+Last Minute Risk Analysis (LMRA)?  
+Check if you are at the right Genset location  
+Used materials from customer?  
+Repair or replacement advice? multiple minor coolant leaks and fuel hoses.Test run without load  
+Left installation on stand-by?  
+Used materials from service car supplies?  
+Lubricating oil pressure [bar] 7.2Check type / part nr. / quantity of all filters(s) (oil, fuel, ","*
+Power 2000 kVA Type fueltank Bovengronds
+Device data 2019 Type starter batteries Optima Yellow Top
+Task
+Order26153Installation location In container
+EBI datePI date
+Microsoft AMS08 ADMIN - QL  Opdracht: - Quarterly + inspection - Oil sample - Coolant sample Hi/Low temp circuitQuarterly Maintenance
+Wait for location/instructions? 1 hr waitingPoint of inspection Measured value and/or",False,False,True,False,"['ATTRIBUTES_PARTIAL', 'MATERIALS_NOT_BOOKED']",0,1,1,0,0,0,0,0
+4083505,0:00,,0:00,True,"100 General
+Last Minute Risk Analysis (LMRA)?  
+Check if you are at the right Genset location  Task
+OrderInstallation location
+EBI datePI date
+Microsoft AMS08 COLO1-CELLA - QL  Opdracht: - Quarterly + inspection - Oil sample - Coolant sample Hi/Low temp circuitQuarterly MaintenanceAttributes
+Power Type fueltank
+Device data  Type starter batteriesInstallation details(When applicable)
+ 
+Lube oil cap","details and change if needed  Used materials from customer?  
+Repair or replacement advice? Fuel polisher pumpTest run without load 5 minutes
+Left installation on stand-by?  
+Used materials from service car supplies?  Wait for location/instructions?  Point of inspection Measured value and/or",True,True,True,True,"['ATTRIBUTES_PARTIAL', 'MATERIALS_NOT_BOOKED']",0,1,1,0,0,0,0,0
+4083506,00:00,,00:00,True,"100 General
+Last Minute Risk Analysis (LMRA)?  
+Check if you are at the right Genset location  
+Used materials from customer?  
+Repair or replacement advice? minor coolant leak coolant full hoseTest run without load for 5 min
+Left installation on stand-by?  
+Used materials from service car supplies? 1 pluspool klem
+Lubricating oil pressure [bar] 8Check type / part nr. / quantity of all filters(s) ","*
+Power 3750 Type fueltank Bovengronds
+Device data 2019 Type starter batteries OPtiMA YELLOW TOP 975
+Task
+Order26153Installation location in container
+EBI datePI date
+Microsoft AMS08 COLO1-CELLB - QL  Opdracht: - Quarterly + inspection - Oil sample - Coolant sample hi/Low temp circuitQuarterly Maintenance
+Wait for location/instructions?  Point of inspection Measured value and/or",False,True,True,False,"['ATTRIBUTES_PARTIAL', 'MATERIALS_NOT_BOOKED']",0,1,1,0,0,0,0,0
+4083507,00:00,,00:00,True,"100 General
+Last Minute Risk Analysis (LMRA)?  
+Check if you are at the right Genset location  
+Used materials from customer?  
+Repair or replacement advice? see commentsTest run without load 5 min
+Left installation on stand-by?  
+Used materials from service car supplies?  
+Lubricating oil pressure [bar] 8Check type / part nr. / quantity of all filters(s) (oil, fuel, air, etc.)  
+Take generator pi","*
+Power 3875 kVA Type fueltank Bovengronds
+Device data 2019 Type starter batteries OPTIMA Yellow TOP 975 
+Task
+Order26153Installation location in container
+EBI datePI date
+Microsoft AMS08 COLO1-CELLC - QL  opdracht: - Quarterly + inspection - Oil sample - Coolant sample Hi/Low temp circuit Quarterly Maintenance
+Wait for location/instructions?  Point of inspection Measured value and/or",False,True,True,False,"['ATTRIBUTES_PARTIAL', 'MATERIALS_NOT_BOOKED']",0,1,1,0,0,0,0,0
+4083508,00:00,,00:00,True,"100 General
+Last Minute Risk Analysis (LMRA)?  
+Check if you are at the right Genset location  Task
+Order26.153Installation location in container
+EBI date 28-09-2021PI date 25-9-2025
+Microsoft AMS08 COLO1-CELLD - QL  opdracht: - Quarterly + inspection - Oil sample - Coolant sample Hi/Low temp circuitQuarterly MaintenanceAttributes*
+Power 3850 Type fueltank Bovengronds
+Device data 2019 Type starter","details and change if needed  Used materials from customer?  
+Repair or replacement advice?  Test run without load for 5 min
+Left installation on stand-by?  
+Used materials from service car supplies?  Wait for location/instructions?  Point of inspection Measured value and/or",False,False,True,False,"['ATTRIBUTES_PARTIAL', 'MATERIALS_NOT_BOOKED']",0,1,1,0,0,0,0,0
+4083509,00:00,,00:00,True,"100 General
+Last Minute Risk Analysis (LMRA)?  
+Check if you are at the right Genset location  
+Used materials from customer?  
+Repair or replacement advice?  Test run without load 5 min off load
+Left installation on stand-by?  
+Used materials from service car supplies?  
+Lubricating oil pressure [bar] 8Check type / part nr. / quantity of all filters(s) (oil, fuel, air, etc.)  
+Take generator pict","*
+Power 3875 kVA Type fueltank Bovengronds
+Device data 2019 Type starter batteries OPTIMA YELLOW TOP 975
+Task
+Order26.153Installation location in container
+EBI date 14-10-2021PI date 28-9-2023
+Microsoft AMS08 COLO2-CELLA - QL  Opdracht: - Quarterly + inspection - Oil sample - Coolant sample Hi/Low temp circuitQuarterly Maintenance
+Wait for location/instructions?  Point of inspection Measured value",False,False,True,False,"['ATTRIBUTES_PARTIAL', 'MATERIALS_NOT_BOOKED']",0,1,1,0,0,0,0,0
+4083510,00:00,,00:00,False,"Check oil hoses on cracks / leaks / other damage  Lubricating oil temperature [°C] 52Check crankcase breather for correction operation  
+Lubricating oil pressure [bar] 7.8Check type / part nr. / quantity of all filters(s) (oil, fuel, air, etc.)  
+Take generator pictures of installation zie sharepointCheck installation details and change if needed  
+Check attributes details and change if needed  Us","details and change if needed  Used materials from customer?  
+Repair or replacement advice? see",False,False,True,False,"['ATTRIBUTES_PARTIAL', 'MATERIALS_NOT_BOOKED']",0,1,1,0,0,0,0,0
+4083511,00:00,,00:00,False,"Test run without load 5 min test run off load
+Left installation on stand-by?  
+Used materials from service car supplies?  Wait for location/instructions?  Point of inspection Measured value and/or comments
+100 General
+Last Minute Risk Analysis (LMRA)?  
+Check if you are at the right Genset location  Task
+Order26.153Installation location In container
+EBI date 14-10-2025PI date 28-9-2023
+Microsoft A","details and change if needed  Used materials from customer?  
+Repair or replacement advice? see",False,False,True,False,"['ATTRIBUTES_PARTIAL', 'MATERIALS_NOT_BOOKED']",0,1,1,0,0,0,0,0
+4083512,00:00,,00:00,True,"100 General
+Last Minute Risk Analysis (LMRA)?  
+Check if you are at the right Genset location  
+Used materials from customer?  
+Repair or replacement advice? see commentsTest run without load 5 min off load.
+Left installation on stand-by?  
+Used materials from service car supplies?  
+Lubricating oil pressure [bar]  Check type / part nr. / quantity of all filters(s) (oil, fuel, air, etc.)  
+Take ge","*
+Power 3875 kVA Type fueltank Bovengronds
+Device data 2019 Type starter batteries OPTIMA YELLOW TOP 975
+Task
+Order26153Installation location In container
+EBI date 29-10-2021PI date 25-9-2023
+Microsoft AMS08 COLO2-CELLD - QL  Opdracht: - Quarterly + inspection - Oil sample - Coolant sample Hi/Low temp circuitQuarterly Maintenance
+Wait for location/instructions? 1 hr due to sub station problemsPoin",False,False,True,False,"['ATTRIBUTES_PARTIAL', 'MATERIALS_NOT_BOOKED']",0,1,1,0,0,0,0,0
+4083513,00:00,,00:00,True,"100 General
+Last Minute Risk Analysis (LMRA)?  
+Check if you are at the right Genset location  Task
+Order26,153Installation location in container
+EBI date 29-10-2021PI date 26-9-2023
+Microsoft AMS08 COLO3-CELLA - QL  Opdracht: - Quarterly + inspection - Oil sample - Coolant sample Hi/Low temp circuitQuarterly MaintenanceAttributes*
+Power 3875 kVA Type fueltank Bovengronds
+Device data 2019 Type sta","details and change if needed  Used materials from customer?  
+Repair or replacement advice?  Test run without load 5 min test run off load
+Left installation on stand-by?  
+Used materials from service car supplies?  Wait for location/instructions?  Point of inspection Measured value and/or",False,False,True,False,"['ATTRIBUTES_PARTIAL', 'MATERIALS_NOT_BOOKED']",0,1,1,0,0,0,0,0
+4083514,00:00,,00:00,True,"100 General
+Last Minute Risk Analysis (LMRA)?  
+Check if you are at the right Genset location  Task
+Order26,153Installation location in container
+EBI date 29-10-2025PI date 26-9-2023
+Microsoft AMS08 COLO3-CELLB - QL  Opdracht: - Quarterly + inspection - Oil sample - Coolant sample Hi/Low temp circuitQuarterly MaintenanceInstallation details(When applicable)
+ 
+Lube oil capacity [L] Number of batter","details and change if needed  Used materials from customer?  
+Repair or replacement advice?Test run without load 5 min test run off load
+Left installation on stand-by?  
+Used materials from service car supplies?  Wait for location/instructions?  Point of inspection Measured value and/or",False,False,True,False,"['ATTRIBUTES_PARTIAL', 'MATERIALS_NOT_BOOKED']",0,1,1,0,0,0,0,0
+4083515,,,00:00,False,"Test run without load 5 min test off load
+Left installation on stand-by?  
+Used materials from service car supplies?  Wait for location/instructions?  Point of inspection Measured value and/or comments
+100 General
+Last Minute Risk Analysis (LMRA)?  
+Check if you are at the right Genset location  Task
+Order26 153Installation location in container
+EBI date 15-10-2021PI date 27-9-2023
+Microsoft AMS08","details and change if needed  Used materials from customer?  
+Repair or replacement advice? see",False,False,True,False,"['ATTRIBUTES_PARTIAL', 'MATERIALS_NOT_BOOKED']",0,1,1,0,0,0,0,0
+4083516,0:00,,0:00,True,"100 General
+Last Minute Risk Analysis (LMRA)?  
+Check if you are at the right Genset location  Task
+Order26153Installation location in container
+EBI date 29/10/2021PI date 26/09/2023
+Microsoft AMS08 COLO3-CELLD - QL  Opdracht: - Quarterly + inspection - Oil sample - Coolant sample Hi/Low temp circuitQuarterly MaintenanceAttributes*
+Power 3875 kVA Type fueltank Bovengronds
+Device data 2019 Type sta","details and change if needed  Used materials from customer?  
+Repair or replacement advice? Fuel polisher pump and coolant check valveTest run without load 5 minutes
+Left installation on stand-by?  
+Used materials from service car supplies?  Wait for location/instructions?  Point of inspection Measured value and/or",True,False,True,False,"['ATTRIBUTES_PARTIAL', 'MATERIALS_NOT_BOOKED']",0,1,1,0,0,0,0,0
+4083517,0:00,,0:00,False,"Test run without load 5 minutes
+Left installation on stand-by?  
+Used materials from service car supplies?  Wait for location/instructions?  Point of inspection Measured value and/or comments
+100 General
+Last Minute Risk Analysis (LMRA)?  
+Check if you are at the right Genset location  Task
+Order26153Installation location in container
+EBI date 15/10/2021PI date 27/09/2023
+Microsoft AMS08 COLO4-CEL","details and change if needed  Used materials from customer?  
+Repair or replacement advice? see",True,False,True,False,"['VIDEO_MISSING', 'TECH_SUPPORT_NOT_CONSULTED']",0,0,0,1,1,0,0,0
+4083518,0:00,,0:00,True,"100 General
+Last Minute Risk Analysis (LMRA)?  
+Check if you are at the right Genset location  Task
+Order26153Installation location in container
+EBI date 29/10/2021PI date 26/09/2023
+Microsoft AMS08 COLO4-CELLB - QL  Opdracht: - Quarterly + inspection - Oil sample - Coolant sample Hi/Low temp circuitQuarterly MaintenanceInstallation details(When applicable)
+ 
+Lube oil capacity [L] Number of batter","details and change if needed  Used materials from customer?  
+Repair or replacement advice? Fuel polisher pumpTest run without load 5 minutes
+Left installation on stand-by?  
+Used materials from service car supplies?  Wait for location/instructions?  Point of inspection Measured value and/or",True,False,True,False,"['ATTRIBUTES_PARTIAL', 'MATERIALS_NOT_BOOKED']",0,1,1,0,0,0,0,0
+4083519,0:00,,0:00,True,"100 General
+Last Minute Risk Analysis (LMRA)?  
+Check if you are at the right Genset location  Task
+Order26153Installation location in container
+EBI date 15/10/2021PI date 27/09/2023
+Microsoft AMS08 COLO4-CELLC - QL  Opdracht: - Quarterly + inspectios - Oil samplle - Coolant sample Hi/Low temp circuitQuarterly MaintenanceInstallation details(When applicable)
+ 
+Lube oil capacity [L] Number of batte","details and change if needed  Used materials from customer?  
+Repair or replacement advice? Fuel polisher pumpTest run without load 5 minutes
+Left installation on stand-by?  
+Used materials from service car supplies?  Wait for location/instructions?  Point of inspection Measured value and/or",True,False,True,False,"['ATTRIBUTES_PARTIAL', 'MATERIALS_NOT_BOOKED']",0,1,1,0,0,0,0,0
+4083520,0:00,,0:00,True,"100 General
+Last Minute Risk Analysis (LMRA)?  
+Check if you are at the right Genset location  Task
+Order26153Installation location in container
+EBI date 29/10/2021PI date 26/09/2023
+Microsoft AMS08 COLO4-CELLD - QL  Opdracht: - Quarterly + inspection - Oil sample - Coolant sample Hi/Low temp circuitQuarterly MaintenanceInstallation details(When applicable)
+ 
+Lube oil capacity [L] Number of batter","details and change if needed  Used materials from customer?  
+Repair or replacement advice?
+Work technically ready?  
+150 0-inspectieTest run without load 5 minutes
+Left installation on stand-by?  
+Used materials from service car supplies?  Wait for location/instructions?  Point of inspection Measured value and/or",False,False,True,False,"['ATTRIBUTES_PARTIAL', 'MATERIALS_NOT_BOOKED']",0,1,1,0,0,0,0,0
+4083521,,,00:00,False,"100 General
+Last Minute Risk Analysis (LMRA)?  
+Check if you are at the right Genset location  Task
+OrderInstallation location in container
+EBI date 28-10-2021PI date 27-9-2023
+Microsoft AMS08 COLO5-CELLA - QL  Opdracht: - Quarterly + inspection - Oil sample - Coolant sample Hi/Low temp circuitQuarterly MaintenanceAttributes*
+Power 3875 kVA Type fueltank Bovengronds
+Device data 2019 Type starter b","details and change if needed  Used materials from customer?  
+Repair or replacement advice? fuel filter (zie sharepoint)Test run without load  
+Left installation on stand-by?  
+Used materials from service car supplies?  Wait for location/instructions?  Point of inspection Measured value and/or",False,False,True,False,"['ATTRIBUTES_PARTIAL', 'MATERIALS_NOT_BOOKED']",0,1,1,0,0,0,0,0
+4083522,,,0:00,False,")Test run without load 5 minutes
+Left installation on stand-by?  
+Used materials from service car supplies?  Wait for location/instructions?  Point of inspection Measured value and/or comments
+100 General
+Last Minute Risk Analysis (LMRA)?  
+Check if you are at the right Genset location  Task
+Order26153Installation location in container
+EBI date 29/10/2021PI date 26/09/2023
+Microsoft AMS08 COLO5-CE","details and change if needed  Used materials from customer?  
+Repair or replacement advice? hire an exterminator (see",False,False,True,False,"['ATTRIBUTES_PARTIAL', 'MATERIALS_NOT_BOOKED']",0,1,1,0,0,0,0,0
+4083523,,,00:00,True,"100 General
+Last Minute Risk Analysis (LMRA)?  
+Check if you are at the right Genset location  Task
+Order26 153Installation location In container
+EBI date 28-10-2021PI date 27-9-2023
+Microsoft AMS08 COLO5-CELLC - QL  Opdracht: - Quarterly + inspection - Oil sample - Coolant sample Hi/Low temp circuitQuarterly MaintenanceAttributes*
+Power 3875 kVA Type fueltank Bovengronds
+Device data 2019 Type sta","details and change if needed  Used materials from customer?  
+Repair or replacement advice?  Test run without load 5 min test run off load
+Left installation on stand-by?  
+Used materials from service car supplies?  Wait for location/instructions?  Point of inspection Measured value and/or",False,False,True,False,"['ATTRIBUTES_PARTIAL', 'MATERIALS_NOT_BOOKED']",0,1,1,0,0,0,0,0
+4083524,00:00,,00:00,True,"100 General
+Last Minute Risk Analysis (LMRA)?  
+Check if you are at the right Genset location  
+Used materials from customer?  
+Repair or replacement advice?  Test run without load 5 min test run off load
+Left installation on stand-by?  
+Used materials from service car supplies?  
+Lubricating oil pressure [bar] 8.2Check type / part nr. / quantity of all filters(s) (oil, fuel, air, etc.)  
+Take gen","*
+Power 3875 kVA Type fueltank Bovengronds
+Device data 2019 Type starter batteries OPTIMA YELLOW TOP 975
+Task
+Order26 153Installation location In container
+EBI date 29-10-2021PI date 26-9-2023
+Microsoft AMS08 COLO5-CELLD - QL  Opdracht: - Quarterly + inspection - Oil sample - Coolant sample Hi/Low temp circuitQuarterly Maintenance
+Wait for location/instructions?  Point of inspection Measured value",False,False,True,False,"['ATTRIBUTES_PARTIAL', 'MATERIALS_NOT_BOOKED']",0,1,1,0,0,0,0,0
